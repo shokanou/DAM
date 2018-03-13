@@ -7,3 +7,8 @@ _get_song.py_ used for downloading songs from **Baidu Music** (not in use anymor
 ![alt](/music_system/网页截图/2.png)   
 ![alt](/music_system/网页截图/3.png)   
 
+#### image similarity  
+compare similarity between images
+
+#### watermark  
+add watermark to pictures
